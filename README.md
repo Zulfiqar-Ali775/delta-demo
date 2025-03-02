@@ -2,8 +2,8 @@
 This is a Demo for Git &amp; Github 
 class.
 
-#Teacher
+# Teacher
 Shradha Khapra
 
-#Student
+# Student
 Delta Student
